@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.fullwebsite{
+    background-color: darkslateblue;
+    text-align: center;
+    width: 1024px;
+    margin: auto;
+
+}
+.manue{
+    background-color: darkgreen;
+    padding: 20px;
+    color: #fff;
+
+}
+.con{
+    padding: 50px;
+    color: #fff;
+}
+.bannar{
+
+}
+.foot{
+background-color: brown;
+padding: 30px;
+color: #fff;
+}
+.fotter{
+    background-color: rgb(45, 214, 11);
+    padding: 20px;
+    color: #fff;
+  
+
+
+}
+img{
+    max-width: 100%;
+}
